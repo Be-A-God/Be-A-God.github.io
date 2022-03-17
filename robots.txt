@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /tags/
+Allow: /categories/
+Allow: /about/
+Allow: /Note/
+
+Disallow: /js/
+Disallow: /css/
+Disallow: /libs/
+
+Sitemap: https://cpplog.cn/sitemap.xml
